@@ -1,0 +1,9 @@
+C:\Users\Cristian\Documents\EPN\semestre_4\Bases de datos II\segundo bimestre\LoginEjercicioClase\LoginEjercicioClase\bin\Debug\LoginEjercicioClase.exe.config
+C:\Users\Cristian\Documents\EPN\semestre_4\Bases de datos II\segundo bimestre\LoginEjercicioClase\LoginEjercicioClase\bin\Debug\LoginEjercicioClase.exe
+C:\Users\Cristian\Documents\EPN\semestre_4\Bases de datos II\segundo bimestre\LoginEjercicioClase\LoginEjercicioClase\bin\Debug\LoginEjercicioClase.pdb
+C:\Users\Cristian\Documents\EPN\semestre_4\Bases de datos II\segundo bimestre\LoginEjercicioClase\LoginEjercicioClase\obj\Debug\LoginEjercicioClase.csprojAssemblyReference.cache
+C:\Users\Cristian\Documents\EPN\semestre_4\Bases de datos II\segundo bimestre\LoginEjercicioClase\LoginEjercicioClase\obj\Debug\LoginEjercicioClase.LogIn.resources
+C:\Users\Cristian\Documents\EPN\semestre_4\Bases de datos II\segundo bimestre\LoginEjercicioClase\LoginEjercicioClase\obj\Debug\LoginEjercicioClase.Properties.Resources.resources
+C:\Users\Cristian\Documents\EPN\semestre_4\Bases de datos II\segundo bimestre\LoginEjercicioClase\LoginEjercicioClase\obj\Debug\LoginEjercicioClase.csproj.GenerateResource.cache
+C:\Users\Cristian\Documents\EPN\semestre_4\Bases de datos II\segundo bimestre\LoginEjercicioClase\LoginEjercicioClase\obj\Debug\LoginEjercicioClase.exe
+C:\Users\Cristian\Documents\EPN\semestre_4\Bases de datos II\segundo bimestre\LoginEjercicioClase\LoginEjercicioClase\obj\Debug\LoginEjercicioClase.pdb
